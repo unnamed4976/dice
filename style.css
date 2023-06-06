@@ -1,0 +1,39 @@
+body {
+ background: rgb(233, 232, 232);
+ padding: 0;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px; 
+  font-size: 60px;
+}
+
+#dice {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px; 
+  font-size: 60px;
+}
+
+button {
+  width: 80px;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+}
+
+ad {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}

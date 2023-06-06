@@ -1,0 +1,15 @@
+'use strict';
+
+{
+
+let dice = document.getElementById('dice');
+
+document.querySelector('button').addEventListener('click', () =>{
+  let num = Math.floor(Math.random() * 6 ); //0から5の数字を出す。
+
+  const dices = ['「1」', '「2」', '「3」', '「4」', '「5」', '「6」'];
+  dice.textContent = dices[num];
+
+});
+
+}
